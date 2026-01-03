@@ -5,49 +5,121 @@
         "id": 1,
         "titulo": "O Poderoso Chefão",
         "capa": "https://http2.mlstatic.com/D_NQ_NP_716972-MLA76109607604_052024-OO.jpg",
-        "link": "https://www.youtube.com/watch?v=SaHZHU-44XA"
+        "link": "https://www.youtube.com/embed/SaHZHU-44XA?si=eO_97ocbQrMN-MVY"
     },
     {
         "id": 2,
         "titulo": "Kill Bill Vol. 1",
         "capa": "https://m.media-amazon.com/images/S/pv-target-images/1d1b2a36d7de081f213080c97f905beaead1427ca8d8c225666c69d03fb7c4bb.jpg",
-        "link": "https://www.youtube.com/watch?v=_J4Ufh8K390"
+        "link": "https://www.youtube.com/embed/_J4Ufh8K390?si=kk-4Z4dtOoUFDmdI"
     },
     {
         "id": 3,
         "titulo": "Kill Bill Vol. 2",
         "capa": "https://m.media-amazon.com/images/I/81LGQLpzamL._AC_UF894,1000_QL80_.jpg",
-        "link": "https://www.youtube.com/watch?v=WTt8cCIvGYI"
+        "link": "https://www.youtube.com/embed/WTt8cCIvGYI?si=NqSDhtES2s3O4DaO"
     },
     {
         "id": 4,
         "titulo": "Senhor dos Anéis: A Sociedade do Anel",
         "capa": "https://acdn-us.mitiendanube.com/stores/004/216/641/products/o-senhor-75aa8e7053ed457c4817381180232693-640-0.webp",
-        "link": "https://www.youtube.com/watch?v=0i86oM1nHjM"
+        "link": "https://www.youtube.com/embed/0i86oM1nHjM?si=49j9UvSWjOPIobGh"
     },
     {
         "id": 5,
         "titulo": "The Evil Dead",
         "capa": "https://m.media-amazon.com/images/M/MV5BNWRmZGQyYzgtNjA5OC00NGYzLTlhYWMtNzBhZTFlZGNjYWI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "link": "https://www.youtube.com/watch?v=0cQmKgV0cug"
+        "link": "https://www.youtube.com/embed/0cQmKgV0cug?si=HMunVNz8WNc-8azu"
     },
     {
         "id": 6,
         "titulo": "Gente Grande",
         "capa": "https://m.media-amazon.com/images/S/pv-target-images/28ba30adb15abcf10253d4c9e07575a206dfd89e48c37714b5f8603ce1575bf9.jpg",
-        "link": "https://www.youtube.com/watch?v=BpEHMqi7PvY"
+        "link": "https://www.youtube.com/embed/HKVve_VSz58?si=RFIWtZXMgPfIi2Ex"
     },
     {
         "id": 7,
         "titulo": "Rocky 1",
         "capa": "https://upload.wikimedia.org/wikipedia/pt/1/18/Rocky_poster.jpg",
-        "link": "https://www.youtube.com/watch?v=E9pJa7GIR1Y"
+        "link": "https://www.youtube.com/embed/E9pJa7GIR1Y?si=mxsDKsGCjDjOK9OO"
     },
     {
         "id": 8,
         "titulo": "Snatch Porcos e Diamantes",
         "capa": "https://upload.wikimedia.org/wikipedia/pt/a/a7/Snatch_ver4.jpg",
-        "link": "https://www.youtube.com/watch?v=svFMgGN3XMU&list=PLiWYQJN7w_QwCQzpBxdFIlZUfcKgdRFhI"
+        "link": "https://www.youtube.com/embed/RMBZF0466y0?si=a_xytVmjNGKl6LcN"
+    }
+    {
+        "id": 9,
+        "titulo": "Gran torino",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/c/c6/Gran_Torino_poster.jpg",
+        "link": "https://www.youtube.com/embed/QCN_sRklOm0?si=Vhmr5NniEQxPqAD0"
+    },
+    {
+        "id": 10,
+        "titulo": "Na Natureza Selvagem",
+        "capa": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/12/95/20028628.jpg",
+        "link": "https://www.youtube.com/embed/4u07rpXrTz8?si=LdCgtHbCsGOGwxkT"
+    },
+    {
+        "id": 11,
+        "titulo": "Laranja Mecaninca",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/7/73/A_Clockwork_Orange_%281971%29.png",
+        "link": "https://www.youtube.com/embed/gTP_qxPLhBE?si=x_qvm8duUXbS2qPo"
+    },
+    {
+        "id": 12,
+        "titulo": "Interestelar",
+        "capa": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+        "link": "https://www.youtube.com/embed/zSWdZVtXT7E"
+    },
+    {
+        "id": 13,
+        "titulo": "The Warriors",
+        "capa": "https://image.api.playstation.com/cdn/UP1004/CUSA03515_00/Uqzi77fB6sYXGujSKLVUYcvA4Wgvb4li.png",
+        "link": "https://www.youtube.com/embed/--gdB-nnQkU?si=VRgyKW4fAHovfjig"
+    },
+    {
+        "id": 14,
+        "titulo": "Coringa",
+        "capa": "https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg",
+        "link": "https://www.youtube.com/embed/zAGVQLHvwOY"
+    },
+    {
+        "id": 15,
+        "titulo": "Matrix",
+        "capa": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+        "link": "https://www.youtube.com/embed/vKQi3bBA1y8"
+    },
+    {
+        "id": 16,
+        "titulo": "Parasita",
+        "capa": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png",
+        "link": "https://www.youtube.com/embed/SEUXfv87Wpk"
+    },
+    {
+        "id": 17,
+        "titulo": "Toy Story",
+        "capa": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+        "link": "https://www.youtube.com/embed/KYz2wyBy3kc"
+    },
+    {
+        "id": 18,
+        "titulo": "Gladiador",
+        "capa": "https://upload.wikimedia.org/wikipedia/en/8/8d/Gladiator_ver1.jpg",
+        "link": "https://www.youtube.com/embed/owK1qxDselE"
+    },
+    {
+        "id": 19,
+        "titulo": "A Origem",
+        "capa": "https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg",
+        "link": "https://www.youtube.com/embed/YoHD9XEInc0"
+    },
+    {
+        "id": 20,
+        "titulo": "O Iluminado",
+        "capa": "https://upload.wikimedia.org/wikipedia/en/2/25/The_Shining_poster.jpg",
+        "link": "https://www.youtube.com/embed/S014oGZiSdI"
     }
 ]
 }
